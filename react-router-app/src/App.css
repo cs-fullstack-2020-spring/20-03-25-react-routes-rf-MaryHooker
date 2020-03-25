@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(128, 128, 128);
+  color: rgb(83, 21, 83);
+  border: 15 px solid rgb(83, 21, 83);
+  text-align: center;
+}
+
+.links{
+  padding: 3%;
+}
